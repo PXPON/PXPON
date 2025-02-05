@@ -1,5 +1,5 @@
 ## Hi, I'm Paxton! 👋
-Software Engineer with a Cybersecurity Focus
+## Software Engineer with a Cybersecurity Focus
 
 <!--
 **PXPON/PXPON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
