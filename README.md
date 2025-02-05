@@ -23,6 +23,9 @@ Here I will post my Visitor Badge:
 
 - 🔭 I’m currently working on a Vulnerability Scanner using nmap
 
+# Connect with me:
+https://www.linkedin.com/in/paxtonperry
+
 [comment]: <> (Now, I will show my GitHub Readme Stats:)
 [comment]: <> (<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PXPON&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />)
 
