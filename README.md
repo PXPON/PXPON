@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 This is the frontpage for my Portfolio. This is still very much a work in progress.
 
 Here I will post my Visitor Badge:
-# ![Visitors](https://visitor-badge.glitch.me/badge?page_id=PXPON)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=PXPON)
 
 - 🔭 I’m currently working on a Vulnerability Scanner using nmap
 - 🔭 I’m currently working on Azure Runbooks
