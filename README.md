@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is the frontpage for my Portfolio. This is still very much a work in progress.
+This is the frontpage for my Portfolio. I'm consistently building and adding new projects here.
 
 My Visitor Badge is coming soon:
 # ![Visitors](https://visitor-badge.glitch.me/badge?page_id=PXPON)
