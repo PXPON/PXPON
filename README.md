@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 
 This is the frontpage for my Portfolio. I'm consistently building and adding new projects here.
 
-My Visitor Badge is coming soon:
-# ![Visitors](https://visitor-badge.glitch.me/badge?page_id=PXPON)
-
 ## 🔨 Current Projects
 - 🛡️ **Vulnerability Scanner** — leveraging Nmap to detect and categorize vulnerabilities.  
 - ☁️ **Azure Runbooks** — automating cloud operations with security-first workflows.  
