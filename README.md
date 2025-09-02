@@ -21,12 +21,16 @@ This is the frontpage for my Portfolio. I'm consistently building and adding new
 My Visitor Badge is coming soon:
 # ![Visitors](https://visitor-badge.glitch.me/badge?page_id=PXPON)
 
-- 🔭 I’m currently working on a Vulnerability Scanner using nmap
-- 🔭 I’m currently working on Azure Runbooks
+## 🔨 Current Projects
+- 🛡️ **Vulnerability Scanner** — leveraging Nmap to detect and categorize vulnerabilities.  
+- ☁️ **Azure Runbooks** — automating cloud operations with security-first workflows.  
 
-# Connect with me:
-[LinkedIn Profile](https://www.linkedin.com/in/paxtonperry)
+## 🌐 Connect
+- [LinkedIn](https://www.linkedin.com/in/paxtonperry)  
+- 📧 Email: paxton.perry@gmail.com
+
 
 [comment]: <> (Now, I will show my GitHub Readme Stats:)
 [comment]: <> (<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PXPON&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />)
 
+⚡ Fun fact: I’ve logged over 250 hours in Factorio — I love optimizing systems, both virtual and real.
